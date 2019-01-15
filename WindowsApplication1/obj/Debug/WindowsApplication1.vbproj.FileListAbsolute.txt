@@ -1,0 +1,53 @@
+C:\Users\DIego\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\DIego\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\DIego\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\DIego\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DIego\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\DIego\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\DIego\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\DIego\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\DIego\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\DIego\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\DIego\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\DIego\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\DIego\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\DIego\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\DIego\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\DIego\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\DIego\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DIego\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\DIego\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\DIego\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\DIego\Desktop\triangulo-pascal\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\DIego\Desktop\triangulo-pascal\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\DIego\Desktop\triangulo-pascal\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\DIego\Desktop\triangulo-pascal\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\DIego\Desktop\triangulo-pascal\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\DIego\Desktop\triangulo-pascal\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\DIego\Desktop\triangulo-pascal\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DIego\Desktop\triangulo-pascal\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\DIego\Desktop\triangulo-pascal\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\DIego\Desktop\triangulo-pascal\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FARAM-1\Desktop\juan diego\programacion\parcial\triangulo-pascal-master\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\FARAM-1\Desktop\juan diego\programacion\parcial\triangulo-pascal-master\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\FARAM-1\Desktop\juan diego\programacion\parcial\triangulo-pascal-master\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\FARAM-1\Desktop\juan diego\programacion\parcial\triangulo-pascal-master\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\FARAM-1\Desktop\juan diego\programacion\parcial\triangulo-pascal-master\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\FARAM-1\Desktop\juan diego\programacion\parcial\triangulo-pascal-master\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\FARAM-1\Desktop\juan diego\programacion\parcial\triangulo-pascal-master\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FARAM-1\Desktop\juan diego\programacion\parcial\triangulo-pascal-master\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\FARAM-1\Desktop\juan diego\programacion\parcial\triangulo-pascal-master\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\FARAM-1\Desktop\juan diego\programacion\parcial\triangulo-pascal-master\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\triangulo-pascal-masterfinal\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\triangulo-pascal-masterfinal\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\triangulo-pascal-masterfinal\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\triangulo-pascal-masterfinal\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\triangulo-pascal-masterfinal\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\triangulo-pascal-masterfinal\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\triangulo-pascal-masterfinal\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\triangulo-pascal-masterfinal\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\triangulo-pascal-masterfinal\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\triangulo-pascal-masterfinal\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\triangulo-pascal-masterfinal\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\triangulo-pascal-masterfinal\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\triangulo-pascal-masterfinal\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
